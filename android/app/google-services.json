@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "574669876832",
+    "project_id": "chitter-chatter-40dcb",
+    "storage_bucket": "chitter-chatter-40dcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574669876832:android:e53028e32102051e799d05",
+        "android_client_info": {
+          "package_name": "com.example.chitter_chatter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574669876832-q5s7ce2i1cm39aa0sbuhqfhgnfogvc34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chitter_chatter",
+            "certificate_hash": "f03c57147aae8e59f8cf62c3d2e4843232304b96"
+          }
+        },
+        {
+          "client_id": "574669876832-4rntgd6qdhpi7cr2j6i869201vn3h4lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_zFkwyXmcLsv9YgNQ-J1fHXZpQBgr-Eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574669876832-4rntgd6qdhpi7cr2j6i869201vn3h4lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
