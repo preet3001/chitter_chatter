@@ -1,4 +1,4 @@
-class FirestoreConstants {
+/* class FirestoreConstants {
   static const pathUserCollection = "users";
   static const pathMessageCollection = "messages";
   static const nickname = "nickname";
@@ -11,4 +11,4 @@ class FirestoreConstants {
   static const timestamp = "timestamp";
   static const content = "content";
   static const type = "type";
-}
+} */
